@@ -91,6 +91,3 @@ HackerRank: https://www.hackerrank.com/profile/shayantanghosh75
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shayantanghosh-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
