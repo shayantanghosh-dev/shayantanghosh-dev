@@ -59,18 +59,27 @@ I actively practice problem solving to strengthen logic building and coding effi
 
 ### Portfolio Website
 Tech Stack: HTML, CSS, JavaScript   
+Link : https://shayantan-ghosh-dev.netlify.app/
 
 ### Login / Signup System
 Tech Stack: HTML, CSS 
+Link : https://login-signup-capstone.netlify.app/
 
 ### Netflix Clone
 Tech Stack: HTML, CSS 
+Link : https://streaming-ui-capstone.netlify.app/
 
 ### Simon Game
-Tech Stack: JavaScript    
+Tech Stack: JavaScript  
+Link : https://simons-game-capstone.netlify.app/
 
 ### Drum Kit Project
 Tech Stack: JavaScript   
+Link : https://drum-kit-capstone.netlify.app/
+
+### Tindogs
+Tech Stack: Html,Css
+Link: https://tinder-dogs-capstone.netlify.app/
 
 Currently building Data Analytics portfolio projects.
 
