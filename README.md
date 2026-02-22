@@ -61,10 +61,10 @@ I actively practice problem solving to strengthen logic building and coding effi
 Tech Stack: HTML, CSS, JavaScript   
 
 ### Login / Signup System
-Tech Stack: HTML, CSS, JavaScript  
+Tech Stack: HTML, CSS 
 
-### YouTube Clone
-Tech Stack: HTML, CSS, JavaScript  
+### Netflix Clone
+Tech Stack: HTML, CSS 
 
 ### Simon Game
 Tech Stack: JavaScript    
