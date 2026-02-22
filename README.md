@@ -62,11 +62,11 @@ Tech Stack: HTML, CSS, JavaScript
 Link : https://shayantan-ghosh-dev.netlify.app/
 
 ### Login / Signup System
-Tech Stack: HTML, CSS 
+Tech Stack: HTML, CSS   
 Link : https://login-signup-capstone.netlify.app/
 
 ### Netflix Clone
-Tech Stack: HTML, CSS 
+Tech Stack: HTML, CSS   
 Link : https://streaming-ui-capstone.netlify.app/
 
 ### Simon Game
