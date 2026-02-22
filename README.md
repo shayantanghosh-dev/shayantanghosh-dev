@@ -78,7 +78,7 @@ Tech Stack: JavaScript
 Link : https://drum-kit-capstone.netlify.app/
 
 ### Tindogs
-Tech Stack: Html,Css
+Tech Stack: Html,Css  
 Link: https://tinder-dogs-capstone.netlify.app/
 
 Currently building Data Analytics portfolio projects.
