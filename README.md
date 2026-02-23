@@ -1,6 +1,6 @@
-# Shayantan Ghosh [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shayantan-ghosh-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayantanghosh75@gmail.com) 
+# Shayantan Ghosh [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayantan-ghosh-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayantanghosh75@gmail.com) 
 
-### Aspiring Data Analyst with Strong Problem-Solving Foundation
+### Aspiring Data Analyst | SQL • Python • Power BI | Turning Data into Insights
 
 I am a 3rd Year Electronics & Communication Engineering student at Narula Institute of Technology with a strong interest in Data Analytics, exploratory data analysis, and data-driven decision making.
 
@@ -10,11 +10,11 @@ I focus on building structured, efficient solutions while continuously strengthe
 
 ## About Me
 
--3rd Year ECE Student
--Focused on Data Analytics & Business Insights
--Strong SQL & Python Foundation
--Actively building real-world analytics projects
--Consistent problem-solving practice (DSA)
+- 3rd Year ECE Student  
+- Focused on Data Analytics & Business Insights  
+- Strong SQL & Python Foundation  
+- Actively building real-world analytics projects  
+- Consistent problem-solving practice (DSA)
 
 ---
 
@@ -23,11 +23,8 @@ I focus on building structured, efficient solutions while continuously strengthe
 ### Data & Analytics
 SQL | Python | Excel | Power BI | Tableau | Pandas | NumPy | Looker Studio
 
-### Programming Languages
-C++ | Java | C
-
-### Web Development(Supporting Skills)
-HTML5 | CSS3 | JavaScript | React.js | Node.js | Express.js | MongoDB
+### Programming & Problem Solving
+C++ | Java | C 
 
 ### Tools & Platforms
 Git | GitHub | VS Code
@@ -76,23 +73,9 @@ Link : https://shayantan-ghosh-dev.netlify.app/
 Tech Stack: HTML, CSS   
 Link : https://login-signup-capstone.netlify.app/
 
-### Netflix Clone
-Tech Stack: HTML, CSS   
-Link : https://streaming-ui-capstone.netlify.app/
-
 ### Simon Game
 Tech Stack: JavaScript  
 Link : https://simons-game-capstone.netlify.app/
-
-### Drum Kit Project
-Tech Stack: JavaScript   
-Link : https://drum-kit-capstone.netlify.app/
-
-### Tindogs
-Tech Stack: Html,Css  
-Link: https://tinder-dogs-capstone.netlify.app/
-
-Currently building Data Analytics portfolio projects.
 
 ---
 
