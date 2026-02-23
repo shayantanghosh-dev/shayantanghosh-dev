@@ -1,35 +1,33 @@
 # Shayantan Ghosh [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shayantan-ghosh-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayantanghosh75@gmail.com) 
 
-### Aspiring Data Analyst | Full Stack Web Developer | DSA Enthusiast
+### Aspiring Data Analyst with Strong Problem-Solving Foundation
 
-I am a 3rd Year Electronics & Communication Engineering student at Narula Institute of Technology with a strong interest in Data Analytics, scalable Web Development, and Problem Solving.
+I am a 3rd Year Electronics & Communication Engineering student at Narula Institute of Technology with a strong interest in Data Analytics, exploratory data analysis, and data-driven decision making.
 
-I focus on building structured, efficient solutions while continuously strengthening my fundamentals in programming, data structures, and system design.
+I focus on building structured, efficient solutions while continuously strengthening my fundamentals in programming and analytical problem-solving.
 
 ---
 
 ## About Me
 
-- 3rd Year ECE Student
-- Aspiring Data Analyst
-- MERN Stack Developer
-- 55+ LeetCode Problems Solved
-- HackerRank Badge Holder
-- Actively improving problem-solving skills
-- Goal: To become a better developer within the next few years by focusing on strong fundamentals
+-3rd Year ECE Student
+-Focused on Data Analytics & Business Insights
+-Strong SQL & Python Foundation
+-Actively building real-world analytics projects
+-Consistent problem-solving practice (DSA)
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-Python | JavaScript | Java | C++ | C
-
-### Web Development
-HTML5 | CSS3 | JavaScript | Node.js | Express.js | React.js | MongoDB | SQL
-
 ### Data & Analytics
-NumPy | Pandas | SQL | Power BI | Tableau | Excel | Looker Studio
+SQL | Python | Excel | Power BI | Tableau | Pandas | NumPy | Looker Studio
+
+### Programming Languages
+C++ | Java | C
+
+### Web Development(Supporting Skills)
+HTML5 | CSS3 | JavaScript | React.js | Node.js | Express.js | MongoDB
 
 ### Tools & Platforms
 Git | GitHub | VS Code
@@ -45,17 +43,30 @@ Growth over comfort.
 ---
 
 # Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 ## Data Structures & Algorithms
-Total Problems Solved: 55+
-
-I actively practice problem solving to strengthen logic building and coding efficiency.
-
+I regularly practice Data Structures & Algorithms to strengthen logical thinking and analytical efficiency.
 ---
 
 ## Projects
+
+### Data Analytics Projects (In Progress)
+Currently building Data Analytics portfolio projects focused on real-world datasets, SQL analysis, and dashboarding.
+
+### Web Dev Projects (Learning Phase)
 
 ### Portfolio Website
 Tech Stack: HTML, CSS, JavaScript   
