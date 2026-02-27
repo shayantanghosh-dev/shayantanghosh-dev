@@ -69,9 +69,9 @@ Currently building Data Analytics portfolio projects focused on real-world datas
 Tech Stack: HTML, CSS, JavaScript   
 Link : https://shayantan-ghosh-dev.netlify.app/
 
-### Login / Signup System
-Tech Stack: HTML, CSS   
-Link : https://login-signup-capstone.netlify.app/
+### Dev Blog
+Tech Stack: Node,Express,MongoDB,EJS  
+Link : https://blog-app-yx85.onrender.com
 
 ### Simon Game
 Tech Stack: JavaScript  
