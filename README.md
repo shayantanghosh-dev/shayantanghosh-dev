@@ -60,8 +60,14 @@ I regularly practice Data Structures & Algorithms to strengthen logical thinking
 
 ## Projects
 
-### Data Analytics Projects (In Progress)
-Currently building Data Analytics portfolio projects focused on real-world datasets, SQL analysis, and dashboarding.
+### Data Analytics Projects 
+###Spotify Analysis
+Tech Stack: Excel
+Link : https://github.com/shayantanghosh-dev/spotify-data-analysis
+
+###Blinkit Analysis
+Tech Stack: Excel, Google Data Studio
+Link :
 
 ### Web Dev Projects (Learning Phase)
 
@@ -72,10 +78,6 @@ Link : https://shayantan-ghosh-dev.netlify.app/
 ### Dev Blog
 Tech Stack: Node,Express,MongoDB,EJS  
 Link : https://blog-app-yx85.onrender.com
-
-### Simon Game
-Tech Stack: JavaScript  
-Link : https://simons-game-capstone.netlify.app/
 
 ---
 
