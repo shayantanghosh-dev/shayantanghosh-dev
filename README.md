@@ -61,13 +61,13 @@ I regularly practice Data Structures & Algorithms to strengthen logical thinking
 ## Projects
 
 ### Data Analytics Projects 
-###Spotify Analysis
-Tech Stack: Excel
+### Spotify Analysis
+Tech Stack: Excel   
 Link : https://github.com/shayantanghosh-dev/spotify-data-analysis
 
-###Blinkit Analysis
-Tech Stack: Excel, Google Data Studio
-Link :
+### Blinkit Analysis
+Tech Stack: Excel, Google Data Studio   
+Link : 
 
 ### Web Dev Projects (Learning Phase)
 
