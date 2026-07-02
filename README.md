@@ -62,9 +62,11 @@ I regularly practice Data Structures & Algorithms to strengthen logical thinking
 
 ## Project
 StockEasy - A stock management SaaS application for medical shops
+
 link - https://stock-easy-gamma.vercel.app/
 
 StartupMinds - A SaaS application where investors can find startups to invest on and Entreprenaurs can find investers to get their investment
+
 link - https://startup-minds.vercel.app/
 
 ---
