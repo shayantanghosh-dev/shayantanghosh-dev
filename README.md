@@ -54,30 +54,9 @@ Growth over comfort.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
+
 ## Data Structures & Algorithms
 I regularly practice Data Structures & Algorithms to strengthen logical thinking and analytical efficiency.
----
-
-## Projects
-
-### Data Analytics Projects 
-### Spotify Analysis
-Tech Stack: Excel   
-Link : https://github.com/shayantanghosh-dev/spotify-data-analysis
-
-### Blinkit Analysis
-Tech Stack: Excel, Google Data Studio   
-Link : 
-
-### Web Dev Projects (Learning Phase)
-
-### Portfolio Website
-Tech Stack: HTML, CSS, JavaScript   
-Link : https://shayantan-ghosh-dev.netlify.app/
-
-### Dev Blog
-Tech Stack: Node,Express,MongoDB,EJS  
-Link : https://blog-app-yx85.onrender.com
 
 ---
 
@@ -86,13 +65,3 @@ Link : https://blog-app-yx85.onrender.com
 LinkedIn: https://www.linkedin.com/in/shayantan-ghosh-dev  
 LeetCode: https://leetcode.com/u/shayantan-ghosh-dev/  
 HackerRank: https://www.hackerrank.com/profile/shayantanghosh75  
-
----
-
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shayantanghosh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shayantanghosh-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayantanghosh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=shayantanghosh-dev&icon=0&color=0)](https://visitcount.itsvg.in)
