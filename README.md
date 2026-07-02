@@ -60,6 +60,15 @@ I regularly practice Data Structures & Algorithms to strengthen logical thinking
 
 ---
 
+## Project
+StockEasy - A stock management SaaS application for medical shops
+link - https://stock-easy-gamma.vercel.app/
+
+StartupMinds - A SaaS application where investors can find startups to invest on and Entreprenaurs can find investers to get their startup invested
+link - https://startup-minds.vercel.app/
+
+---
+
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/shayantan-ghosh-dev  
